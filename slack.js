@@ -38,6 +38,7 @@ function setChangingScore(inputBody,actual,before){
 }
 
 function sendSlackMessage(body){
+ console.log("Slack sending message..");
  const options = {
   method: "POST",
   headers: {
@@ -50,7 +51,9 @@ function sendSlackMessage(body){
   .then(response => response.text())
   .then(data => {
     console.log(data)
-  });
+  })
+ .catch(error => console.error(error));
+
 }
 
 module.exports ={
