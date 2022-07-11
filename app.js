@@ -3,8 +3,9 @@ const fs = require('fs');
 var notifier = require('./notifier.js');
 
 const fileScore = "last_score.txt";
-const PACKAGE_ID='cipolat.Anotadroid'
-const COUNTRY='ar'//Argentina
+const PACKAGE_ID=process.env.PACKAGE_ID;
+const COUNTRY_ID=process.env.COUNTRY_ID;
+
 lastScore="0.0"
 
 console.log("--------------------"); 
@@ -25,7 +26,7 @@ fs.readFile(fileScore, (err, data) => {
 });
 
 //Get score from playstore and send message
-gplay.app({appId: PACKAGE_ID,country: COUNTRY})
+gplay.app({appId: PACKAGE_ID,country: COUNTRY_ID})
     .then((value)=>{
        console.log("App Name="+value.title); 
        console.log("Score="+value.scoreText); 

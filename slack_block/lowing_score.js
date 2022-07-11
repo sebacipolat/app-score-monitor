@@ -57,7 +57,7 @@ const blocks={
 						"type": "plain_text",
 						"text": "App."
 					},
-					"url": ""
+					"url": "https://play.google.com/store/apps"
 				},
 				{
 					"type": "button",
@@ -66,7 +66,7 @@ const blocks={
 						"text": "Scoring Historial",
 						"emoji": true
 					},
-					"url": ""
+					"url": "https://play.google.com/store/apps"
 				}
 			]
 		}

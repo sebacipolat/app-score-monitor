@@ -9,6 +9,7 @@
   "author": "Sebastian Cipolat",
   "license": "ISC",
   "dependencies": {
-    "google-play-scraper": "^9.0.1"
+    "google-play-scraper": "^9.0.1",
+    "node-fetch": "^2.6.7"
   }
 }
