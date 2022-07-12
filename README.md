@@ -70,7 +70,7 @@ Este pequeño script te ayudara a extraer el score de tu app en Google Playstore
   ```sh
    node app.js
    ```
-    Si todo funciona correctamente veras lo siguiente:
+   Si todo funciona correctamente veras lo siguiente:
 
    ![image](https://user-images.githubusercontent.com/1523404/178396755-def4ffa6-3d26-4852-a065-c67e4efaefb6.png)
 
