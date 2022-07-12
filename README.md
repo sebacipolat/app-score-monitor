@@ -70,7 +70,20 @@ Este pequeño script te ayudara a extraer el score de tu app en Google Playstore
   ```sh
    node app.js
    ```
+    Si todo funciona correctamente veras lo siguiente:
 
+   ![image](https://user-images.githubusercontent.com/1523404/178396755-def4ffa6-3d26-4852-a065-c67e4efaefb6.png)
+
+   
+<!-- SLAC Messages -->
+## Mensajes de Estado
+
+| Estado          | Mensaje | 
+|-----------------|---------|
+| Score actual    |  <img src="https://user-images.githubusercontent.com/1523404/178397195-622cafa1-c874-45e8-9a5c-d47ab554e603.png" alt="Score actual " width="550" height="350"/>       |
+| Score muy bajo  | <img src="https://user-images.githubusercontent.com/1523404/178397408-00233a54-3566-4d5f-a794-c4ec572dfb32.png" alt="Score muy bajo" width="550" height="350"/>         |
+| Score en subida |   <img src="https://user-images.githubusercontent.com/1523404/178397767-917b363d-5519-4138-b755-8a4537894ef4.png" width="550" height="350"/>       |
+| Score en bajada |   <img src="https://user-images.githubusercontent.com/1523404/178397643-1f782c6f-0f63-4c01-a0bd-d8ee78501f73.png" alt="Score en bajada" width="550" height="350"/>       | 
 
 <!-- LICENSE -->
 ## License
