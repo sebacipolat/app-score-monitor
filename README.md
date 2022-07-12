@@ -20,7 +20,7 @@
   <h2 align="center">App Score Monitor</h3>
 
   <p align="center">
-    Divulgar el score de tu app, nunca fue tan facil!
+    Dar visbilidad al score de una app, facil y rapido!
     <br />
     <a href="https://medium.com/@sebastiancipolat/monitor-de-scoring-app-en-slack-319bd5a41516"><strong>Articulo en medium relacionado. »</strong></a>
     <br />
