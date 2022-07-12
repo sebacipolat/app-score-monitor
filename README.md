@@ -85,19 +85,21 @@ Este pequeño script te ayudara a extraer el score de tu app en Google Playstore
 | Score en subida |   <img src="https://user-images.githubusercontent.com/1523404/178397767-917b363d-5519-4138-b755-8a4537894ef4.png" width="550" height="350"/>       |
 | Score en bajada |   <img src="https://user-images.githubusercontent.com/1523404/178397643-1f782c6f-0f63-4c01-a0bd-d8ee78501f73.png" alt="Score en bajada" width="550" height="350"/>       | 
 
-<!-- LICENSE -->
-## License
+# Botones:
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+<b>App</b> te llevara a la ficha de la app en Google Playstore
 
+<b>Score Historial</b> Deberas definir la url de la sección Estadisticas de tu Play Console, 
+
+para poder hacerlo deberas editar los archivos dentro de la carpeta 'slack_blocks'
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@seba_cipolat]([https://twitter.com/your_username](https://twitter.com/seba_cipolat)) 
+Sebastian Cipolat - [@seba_cipolat]([https://twitter.com/your_username](https://twitter.com/seba_cipolat)) 
 
-Github: [https://github.com/sebacipolat]([https://github.com/your_username/repo_name](https://github.com/sebacipolat))
+Github: [https://github.com/sebacipolat]([https://github.com/sebacipolat](https://github.com/sebacipolat))
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
