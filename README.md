@@ -34,6 +34,7 @@ El score de una app es una de las primeras cosas que ven tus futuros usuarios en
 Poder divulgarlo dentro de tu organización es una forma genial de aumentar el compromiso de todos los miembros.
 
 Este pequeño script te ayudara a extraer el score de tu app en Google Playstore y compartilo en Slack
+La extracción de datos es realizada mediante el uso de la libreria https://github.com/facundoolano/google-play-scraper
 
 
 ### Built With
